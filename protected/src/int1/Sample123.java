@@ -1,4 +1,4 @@
-package int2;
+package int1;
 
 public class Sample123 {
 public static void main(String args[]) {
